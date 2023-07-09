@@ -1,0 +1,49 @@
+    body{
+    background-color: peachpuff;
+    align-items: left;
+    }
+    
+    #check{
+        width:465px;
+        height:30px;
+        font-weight: bold;
+    }
+    #header{
+        font-family: Arial, Helvetica, sans-serif; 
+    }
+   
+    #room_name{
+        width:465px;
+        background-color: black;
+        text-decoration: white;
+        color: white;
+        height:30px;
+    }
+    #logo{
+        height:350px;
+        padding-top: 25px;
+    }
+    #output{
+        background-image: linear-gradient(90deg,#ff3131,#ff914d);
+        border-radius: 20px;
+        border-width: 5px;
+        margin-top: 10px;
+        border-color: black;
+        width:465px;
+        align-items: top;
+    }
+    #Trend{
+       margin-top: 0px;
+       margin-bottom: 0px;     
+       font-size: 27px; 
+      font-family: yeon sung;   
+    }
+    #logout{
+        background-color: black;
+        color:white;
+      }
+
+   .btn-text-right{
+          text-align: right;
+          width: 1050px;
+      }

@@ -1,0 +1,21 @@
+
+#input{
+    width:465px;
+    background-color: black;
+    text-decoration: white;
+    color: white;
+}
+#logo{
+    height:560px;
+    padding-top: 100px;
+}
+
+body{
+background-color: peachpuff
+
+}
+#check{
+    width:465px;
+    height:30px;
+    font-weight: bold;
+}
